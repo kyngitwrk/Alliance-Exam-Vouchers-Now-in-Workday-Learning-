@@ -7,8 +7,13 @@ You can continue to explore vendor-specific details and links on the Alliances S
 👉 Tip: You can also access voucher options directly in Workday by typing “voucher” in the search bar.
 
 (Azure, AWS, Google) 
+
 [Azure](https://kyndryl.sharepoint.com/sites/KUFM/)
+
 [AWS](https://kyndryl.sharepoint.com/sites/kaae/SitePages/AWS-Academy-Alliance.aspx)
+
 [GCP](https://kyndryl.sharepoint.com/sites/AcademyAlliances/SitePages/Google-Cloud.aspx)
+
 [AllianceSharepoint](https://kyndryl.sharepoint.com/sites/KyndrylLearning/SitePages/Alliances-Vouchers.aspx)
+
 [including info about voucher policies, attempts, and availability.](https://kyndrylent.service-now.com/esc?id=kb_article&sysparm_article=KB0019141)
