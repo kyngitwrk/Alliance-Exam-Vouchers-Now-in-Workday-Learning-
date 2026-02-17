@@ -11,3 +11,5 @@ https://autogenhub.github.io/autogen/docs/tutorial/
 
 https://vshow.on24.com/vshow/FY24_AZDepth/curriculum/7490
 
+https://vshow.on24.com/vshow/FY24_AZDepth/curriculum/7490
+
