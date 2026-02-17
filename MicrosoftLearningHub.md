@@ -19,3 +19,5 @@ https://vshow.on24.com/vshow/FY24_AZDepth/curriculum/7679
 
 https://learn.microsoft.com/en-gb/training/browse/?resource_type=learning%20path
 
+https://colab.research.google.com/github/autogenhub/autogen/blob/main/website/docs/tutorial/introduction.ipynb#scrollTo=wBPG82VyQ5rk
+
