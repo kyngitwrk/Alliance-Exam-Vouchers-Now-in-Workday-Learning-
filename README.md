@@ -17,3 +17,5 @@ You can continue to explore vendor-specific details and links on the Alliances S
 [AllianceSharepoint](https://kyndryl.sharepoint.com/sites/KyndrylLearning/SitePages/Alliances-Vouchers.aspx)
 
 [including info about voucher policies, attempts, and availability.](https://kyndrylent.service-now.com/esc?id=kb_article&sysparm_article=KB0019141)
+
+[KUFM/SitePages/Microsoft-Exam-Certification-Information](https://kyndryl.sharepoint.com/sites/KUFM/SitePages/Microsoft-Exam-Certification-Information.aspx)
